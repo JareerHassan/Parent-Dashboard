@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Parent-Dashboard/static/css/main.b6cc63bd.css",
-    "main.js": "/Parent-Dashboard/static/js/main.665ae874.js",
+    "main.css": "/Parent-Dashboard/static/css/main.bbc1e118.css",
+    "main.js": "/Parent-Dashboard/static/js/main.9cab811a.js",
     "static/js/453.cb163f94.chunk.js": "/Parent-Dashboard/static/js/453.cb163f94.chunk.js",
     "static/media/fa-solid-900.ttf": "/Parent-Dashboard/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/Parent-Dashboard/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/Parent-Dashboard/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/Parent-Dashboard/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Parent-Dashboard/index.html",
-    "main.b6cc63bd.css.map": "/Parent-Dashboard/static/css/main.b6cc63bd.css.map",
-    "main.665ae874.js.map": "/Parent-Dashboard/static/js/main.665ae874.js.map",
+    "main.bbc1e118.css.map": "/Parent-Dashboard/static/css/main.bbc1e118.css.map",
+    "main.9cab811a.js.map": "/Parent-Dashboard/static/js/main.9cab811a.js.map",
     "453.cb163f94.chunk.js.map": "/Parent-Dashboard/static/js/453.cb163f94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6cc63bd.css",
-    "static/js/main.665ae874.js"
+    "static/css/main.bbc1e118.css",
+    "static/js/main.9cab811a.js"
   ]
 }
